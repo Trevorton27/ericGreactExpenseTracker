@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     const getCharacters = () => {
       axios.get("https://swapi.dev/api/people/").then((response) => {
-        setCharacterList(response.data.results)
+        setCharacterList(response.data.results);
         const pages = Math.ceil(response.data.count / 10);
         setPageCount(pages); 
       })
