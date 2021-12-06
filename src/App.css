@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-image: url(./Images/starwars-wallpaper-reactJSpic.png);
+  min-height: 100%;
+  min-width: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: center;
 }
 
 .App-logo {
@@ -14,7 +20,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   /*min-height: 100vh*/;
   display: flex;
   flex-direction: column;
@@ -37,8 +42,40 @@
   }
 }
 
-.main-area {
-  /*background-image*/
-  /*background-repeat*/
-  /*background-size*/
+.container {
+  background-image: url(./Images/starwars-wallpaper-reactJSpic.png);
+  min-height: 100%;
+  min-width: 100%;
+  position: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.page-item {
+  border-color: black;
+  outline-color: black;
+}
+
+.form {
+  text-align: center;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+}
+
+#sw-header-title {
+  color: white;
+}
+
+#table-container {
+  opacity: 65%;
 }

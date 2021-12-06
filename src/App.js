@@ -34,16 +34,13 @@ function App() {
         <header className="header mt-3">
           <h1 id="sw-header-title">Star Wars API</h1>
         </header>
-        <div className="main-area">
-        {/*Have a star wars picture inserted here (src/img) */}
-        </div>
         <div className="form-container">
           <form className="form">
             <input className="form-input" placeholder="Use the force"/>
-            <button className="btn btn-warning">Search</button>
+            <button className="btn btn-warning ms-3">Search</button>
           </form>
         </div>
-        <Table className="mt-3" striped bordered hover variant="dark">
+        <Table className="mt-3" striped bordered hover variant="dark" id="table-container">
           <thead className="table-head">
             <tr>
               <th>Name</th>
