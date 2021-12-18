@@ -2,7 +2,7 @@
 
 > A React app built using data from the swapi.dev api
 
-![js]src/Images/javascript.png) ![html](src/Images/html.png) ![css](src/Images/css.png) ![react](src/Images/react.png)
+![js](src/Images/javascript.png) ![html](src/Images/html.png) ![css](src/Images/css.png) ![react](src/Images/react.png)
 
 Check out the app [HERE](https://honshu-star-wars-app.herokuapp.com/!)
 
