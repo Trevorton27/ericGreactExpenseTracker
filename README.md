@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Star Wars API React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A React app built using data from the swapi.dev api
 
-## Available Scripts
+![js]src/Images/javascript.png) ![html](src/Images/html.png) ![css](src/Images/css.png) ![react](src/Images/react.png)
 
-In the project directory, you can run:
+Check out the app [HERE](https://honshu-star-wars-app.herokuapp.com/!)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Summary
 
-### `npm test`
+I built this app to understand and learn the React front end framework, along with working with external API data. There were a lot of new things to tackle on this project. I am starting to build tougher applications that are a bit closer to real world projects. I know this isn't a massive project, but being comfortable with http protocol is something that is going to be invaluable in the future.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Up to this point the projects I have worked on have been using static data or data that has been provided by the user. This application was a great opportunity to look deeper into how the web works. Building this project was also a chance to continue to practice working with react. I wanted to try to learn as much new things as possible, which is why I chose to use only functional components with React Hooks.
 
-### `npm run build`
+Specific things I used and learned while building this application:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> React Hooks including useState & useEffect
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Using axios library
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Styling React with Bootstrap 5
 
-### `npm run eject`
+> Deployment onto Heroku cloud service
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+> API calls to swapi.dev to get Star Wars data information
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Eric Gonzalez- Full Stack Web Developer
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[LinkedIn](https://www.linkedin.com/in/e-gonzalez11-/)
