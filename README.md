@@ -10,9 +10,9 @@ Check out the app [HERE](https://honshu-star-wars-app.herokuapp.com/!)
 
 ## Summary
 
-I built this app to understand and learn the React front end framework, along with working with external API data. There were a lot of new things to tackle on this project. I am starting to build tougher applications that are a bit closer to real world projects. I know this isn't a massive project, but being comfortable with http protocol is something that is going to be invaluable in the future.
+I built this app to understand and learn the React front end framework, along with working with external API data. There were a lot of new things to tackle on this project. I am starting to build tougher applications that are a bit closer to real world projects. I know this isn't a massive project, but being comfortable with the React framework along with Javascript really starts to bring the project into persepective.
 
-Up to this point the projects I have worked on have been using static data or data that has been provided by the user. This application was a great opportunity to look deeper into how the web works. Building this project was also a chance to continue to practice working with react. I wanted to try to learn as much new things as possible, which is why I chose to use only functional components with React Hooks.
+Up to this point the projects I have worked on have been using static data or data that has been provided by the user. This application was a great opportunity to look deeper into how the web works. Not to mention how React frameworks brings it all together.
 
 Specific things I used and learned while building this application:
 
