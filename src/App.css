@@ -32,13 +32,11 @@
   color: white;
 }
 
-.custom-page-link:hover{
+.custom-page-link:hover {
   background-color: yellow;
 }
 
-
 .App-header {
-  /*min-height: 100vh*/;
   display: flex;
   flex-direction: column;
   align-items: center;
